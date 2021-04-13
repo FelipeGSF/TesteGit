@@ -5,7 +5,6 @@
  */
 package app;
 
-import java.awt.TrayIcon.MessageType;
 import javax.swing.JOptionPane;
 
 /**
