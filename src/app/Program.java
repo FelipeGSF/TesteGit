@@ -5,12 +5,15 @@
  */
 package app;
 
+import java.awt.TrayIcon.MessageType;
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author felip
  */
 public class Program {
     public static void main(String[] args) {
-        
+        JOptionPane.showMessageDialog(null, "Olá Mundo!!!");
     }
 }
